@@ -1,0 +1,2 @@
+link deployment :
+https://huggingface.co/spaces/nurulizzah/deployment_2
